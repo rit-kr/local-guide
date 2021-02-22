@@ -1,2 +1,2 @@
-local guide sitey
+local guide site
 
